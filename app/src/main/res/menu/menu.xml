@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/add_file"
+        android:title="import contact txt"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/new_contact"
+        android:icon="@drawable/ic_add_white_24dp"
+        android:title="New Contact"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/delete"
+        android:title="Delete All Datas"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/save_all"
+        android:title="Save All Contacts"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/show_map"
+        android:title="Show All Contact Location"
+        app:showAsAction="never" />
+</menu>

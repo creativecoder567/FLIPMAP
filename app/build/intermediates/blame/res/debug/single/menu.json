@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\FLIPMAP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_form.xml",
+        "source": "E:\\FLIPMAP\\app\\src\\main\\res\\menu\\menu_form.xml"
+    },
+    {
+        "merged": "E:\\FLIPMAP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\new_form_menu.xml",
+        "source": "E:\\FLIPMAP\\app\\src\\main\\res\\menu\\new_form_menu.xml"
+    },
+    {
+        "merged": "E:\\FLIPMAP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "E:\\FLIPMAP\\app\\src\\main\\res\\menu\\menu.xml"
+    }
+]
